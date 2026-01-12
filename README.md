@@ -40,6 +40,10 @@ Tip: Before uploading new versions of the notebook, clear all outputs so the fil
 ## Citation
 If you use this code for a paper or school project, please cite the associated manuscript and the dataset sources listed there.
 
+## Related publication
+This repository supports the research described in the paper:
+“Cross-Language and Cross-Accent Generalization of Parkinson’s Disease Voice Biomarkers Using Transfer Learning and Explainable AI". The paper reports the experimental design and results. This repository provides the accompanying code and analysis notebooks.
+
 ## Contact
 For questions about this repository, please open a GitHub Issue.
 
