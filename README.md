@@ -42,3 +42,6 @@ If you use this code for a paper or school project, please cite the associated m
 
 ## Contact
 For questions about this repository, please open a GitHub Issue.
+
+## License
+This project is released under the MIT License. See the LICENSE file for details.
