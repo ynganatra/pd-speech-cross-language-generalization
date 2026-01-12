@@ -1,0 +1,63 @@
+# -----------------------
+# Python / Jupyter basics
+# -----------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.joblib
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# -----------------------
+# Large data and outputs
+# -----------------------
+# Do not upload datasets or audio
+data/
+datasets/
+audio/
+clips/
+wav/
+*.wav
+*.mp3
+*.flac
+*.m4a
+
+# Model checkpoints / large artifacts
+checkpoints/
+models/
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.onnx
+
+# Experiment outputs
+outputs/
+runs/
+logs/
+figures/
+plots/
+predictions/
+*.csv
+*.parquet
+
+# If you want to keep small CSV summaries, remove the "*.csv" line above.
+
+# -----------------------
+# Colab / Drive notes
+# -----------------------
+# Local copies of Google Drive exports or mounts
+drive_exports/
+content_drive_copy/
