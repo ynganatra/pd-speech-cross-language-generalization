@@ -42,7 +42,9 @@ If you use this code for a paper or school project, please cite the associated m
 
 ## Related publication
 This repository supports the research described in the paper:
-“Cross-Language Generalization of Parkinson’s Disease Speech Detection Using Limited Target Data Calibration". The paper reports the experimental design and results. This repository provides the accompanying code and analysis notebooks.
+“Cross-Language Generalization of Parkinson’s Disease Speech Detection Using Limited Target Data Calibration".
+
+The paper reports the experimental design and results. This repository provides the accompanying code and analysis notebooks.
 
 ## Contact
 For questions about this repository, please open a GitHub Issue.
