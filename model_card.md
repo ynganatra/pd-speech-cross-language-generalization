@@ -3,6 +3,8 @@
 ## What this is
 This project does not rely on one single “final” model. It evaluates a family of models that share the same general design, but use different training setups (monolingual, multilingual, zero-shot transfer and limited target-data calibration).
 
+This model card describes the experimental system evaluated in the associated research paper.
+
 ## Intended use
 Research on:
 - cross-language and cross-dataset testing
