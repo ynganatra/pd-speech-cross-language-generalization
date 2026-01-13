@@ -6,7 +6,7 @@ datasets under limited exposure to the target dataset.
 This is a research project. The models and analyses are not intended for clinical diagnosis or medical decision-making. For any real-world use, additional clinical validation and ethical oversight would be needed.
 
 ## What is in this repository
-- `Yash_PD_Voice_Project.ipynb`  
+- `Yash_Ganatra_PD_Voice_Projec.ipynb`  
   The main notebook with preprocessing, training, evaluation, and analysis steps.
 - `model_card.md`  
   A short, plain-language description of the model family and how it was tested.
@@ -31,7 +31,7 @@ Please follow each dataset’s license and access rules.
 - Two small classification heads are trained: one for vowel clips and one for read/other speech tasks.
 
 ## How to run
-1. Open `Yash_PD_Voice_Project.ipynb` in Google Colab or Jupyter.
+1. Open `Yash_Ganatra_PD_Voice_Projec.ipynb` in Google Colab or Jupyter.
 2. Follow the notebook cells in order.
 3. Update any local or Google Drive paths used by the notebook.
 
